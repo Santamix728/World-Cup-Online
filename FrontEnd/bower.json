@@ -1,0 +1,18 @@
+{
+  "name": "material-dashboard-react",
+  "authors": [
+    "404Devs"
+  ],
+  "description": "X-FIFA Quiniela",
+  "main": "src/index.js",
+  "license": "MIT License",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build"
+  ],
+  "private": false
+}
